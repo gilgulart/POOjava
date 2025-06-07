@@ -1,4 +1,4 @@
-package exercicios;
+package ex01;
 
 public class Circle {
 private double radius;
